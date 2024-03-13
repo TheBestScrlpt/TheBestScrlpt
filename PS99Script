@@ -1,1 +1,1 @@
-- loadstring(game:HttpGet('https://hugegames.space/85d4f101db2a6c26deb59b3a.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/TheBestScrlpt/TheBestScrlpt/main/PS99Script'))()
